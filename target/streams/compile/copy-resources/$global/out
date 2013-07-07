@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\scala\flight\src\main\resources\logback.xml,C:\scala\flight\target\scala-2.10\classes\logback.xml)
+[debug] 	(C:\scala\flight\src\main\resources\props,C:\scala\flight\target\scala-2.10\classes\props)
+[debug] 	(C:\scala\flight\src\main\resources\props\default.props,C:\scala\flight\target\scala-2.10\classes\props\default.props)
